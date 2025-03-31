@@ -11,4 +11,4 @@ function letthefunbegin() {
 setInterval(function() {
     let newwind = window.open("/youareanidiotremake/base/otherhtml.html")
     audi.play()
-}, 5000)
+}, 2000)
