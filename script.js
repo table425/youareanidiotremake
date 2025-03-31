@@ -5,5 +5,5 @@ function letthefunbegin() {
     setInterval(function() {
         audi.play()
     }, 59000)
-    let newwind = window.open("table425.github.io/youareanidiotremake")
+    let newwind = window.open("https://table425.github.io/youareanidiotremake/base/")
 }
