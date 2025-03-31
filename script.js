@@ -5,10 +5,10 @@ function letthefunbegin() {
     setInterval(function() {
         audi.play()
     }, 40000)
-    let newwind = window.open("/base/index2.html")
+    let newwind = window.open("/base/otherhtml2.html")
 }
 
 setInterval(function() {
-    let newwind = window.open("/base/index2.html")
+    let newwind = window.open("/base/otherhtml2.html")
     audi.play()
 }, 5000)
