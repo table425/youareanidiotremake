@@ -5,5 +5,5 @@ function letthefunbegin() {
     setInterval(function() {
         audi.play()
     }, 59000)
-    let newwind = window.open("/base")
+    let newwind = window.open("/youareanidiotremake/base/indexx.html")
 }
